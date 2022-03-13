@@ -1,0 +1,7 @@
+touch new.html
+
+rm new.html
+
+rm -rf Test/
+
+touch new.txt
