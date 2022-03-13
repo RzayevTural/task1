@@ -5,3 +5,5 @@ rm new.html
 rm -rf Test/
 
 touch new.txt
+
+git remote add origin https://github.com/RzayevTural/task1.git
